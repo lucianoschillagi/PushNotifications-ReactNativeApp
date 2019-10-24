@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1007434026124",
+    "firebase_url": "https://pushnotifications-rn-android.firebaseio.com",
+    "project_id": "pushnotifications-rn-android",
+    "storage_bucket": "pushnotifications-rn-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007434026124:android:77c7f3e59f1d3aed8fbfa9",
+        "android_client_info": {
+          "package_name": "PushNotifications.ReactNative_Android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007434026124-qjvm5g7a1j57ucpb6aua1kjk49srodk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB48lo8yN6qUAFxYFqLjsUpnzwYf-9WY0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007434026124-qjvm5g7a1j57ucpb6aua1kjk49srodk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

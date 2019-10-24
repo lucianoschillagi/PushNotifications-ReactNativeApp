@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>19622756984-vh02rbb3a035l0jeibc6u7qu4bbaeq58.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.19622756984-vh02rbb3a035l0jeibc6u7qu4bbaeq58</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDmnvlTPYEPGAx4OAnNnitaOyht6QvLUD8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>19622756984</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.luko.push-notifications-RN-iOS</string>
+	<key>PROJECT_ID</key>
+	<string>pushnotifications-rn-6db23</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pushnotifications-rn-6db23.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:19622756984:ios:d31d9b80eb7aea19c6638d</string>
+	<key>DATABASE_URL</key>
+	<string>https://pushnotifications-rn-6db23.firebaseio.com</string>
+</dict>
+</plist>
